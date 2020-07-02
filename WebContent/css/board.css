@@ -1,0 +1,53 @@
+#wrap {
+	width: 1200px;
+	margin: 0 auto 0 auto;
+}
+
+#topForm {
+	text-align: right;
+}
+
+#board, #pageForm {
+	text-align: center;
+}
+
+#bList {
+	max-width: 1200px;
+	text-align: center;
+	border: 3px;
+	bordercolor: "lightgray";
+}
+
+#searchForm {
+	max-width: 200px;
+	margin-left: 40%;
+}
+
+.tagbtn {
+	margin-bottom: 3px;
+}
+
+
+.title {
+	height: 16;
+	font-family: '나눔고딕', 'Malgun Gothic', sans-serif;
+	font-style : italic;
+	font-size: 15px;
+	font-weight :bold;
+	text-align: left;
+	
+}
+#detailBoard {
+	text-align: center;
+}
+.w-300 {
+	width: 300px;
+}
+.mrg_left{
+	margin-left: 50px;
+}
+.ftt{
+	font-size: 30px;
+	font-family: '나눔고딕', 'Malgun Gothic', sans-serif;
+	font-weight :bold;
+}
